@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_2067620_brazil_0.Dummy Script Include</api_name>
+        <caller_access/>
+        <client_callable>false</client_callable>
+        <description/>
+        <mobile_callable>false</mobile_callable>
+        <name>Dummy Script Include</name>
+        <sandbox_callable>false</sandbox_callable>
+        <script><![CDATA[var Dummy_Script_Include = Class.create();
+Dummy_Script_Include.prototype = {
+    initialize: function() {
+    },
+
+    type: 'Dummy_Script_Include'
+};]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-10-30 14:40:02</sys_created_on>
+        <sys_id>ed48d6b083d09310f756cad6feaad355</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Dummy Script Include</sys_name>
+        <sys_package display_value="Brazil Demonstration" source="x_2067620_brazil_0">1b1852b083d09310f756cad6feaad33e</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="Brazil Demonstration">1b1852b083d09310f756cad6feaad33e</sys_scope>
+        <sys_update_name>sys_script_include_ed48d6b083d09310f756cad6feaad355</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-10-30 14:40:02</sys_updated_on>
+    </sys_script_include>
+</record_update>
